@@ -1,0 +1,36 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Professional Discord.js bot template with prefix and slash command support",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "template"
+  ],
+  "author": "sw3do",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sw3do/discord-bot-template.git"
+  },
+  "homepage": "https://github.com/sw3do/discord-bot-template#readme",
+  "bugs": {
+    "url": "https://github.com/sw3do/discord-bot-template/issues"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
