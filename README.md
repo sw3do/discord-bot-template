@@ -47,7 +47,7 @@ A professional Discord.js v14 bot template with support for both prefix and slas
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sw3do/discord-bot-template.git
 cd discord-bot-template
 ```
 
